@@ -33,7 +33,7 @@ new Chart(ctx, {
     labels: ['Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange'],
     datasets: [{
       label: '# of Votes',
-      data: [11, 19, 3, 5, 2, 3],
+      data: [111, 19, 3, 5, 2, 3],
       borderWidth: 12
     }]
   },
